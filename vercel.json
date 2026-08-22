@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "name": "kisanova-cad",
+  "cleanUrls": true,
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/$1"
+    }
+  ]
+}

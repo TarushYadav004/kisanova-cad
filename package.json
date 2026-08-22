@@ -1,0 +1,20 @@
+{
+  "name": "kisanova-cad-studio",
+  "version": "1.0.0",
+  "description": "KISANOVA Smart AgriTech Rover - 3D CAD Studio & Engineering Suite",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8088",
+    "deploy": "npx vercel --prod"
+  },
+  "keywords": [
+    "cad",
+    "3d",
+    "threejs",
+    "agritech",
+    "rover",
+    "robotics"
+  ],
+  "author": "Tech Falcons",
+  "license": "MIT"
+}
