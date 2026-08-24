@@ -1,7 +1,7 @@
 # 🌱 KISANOVA™ - Smart AgriTech Rover CAD Studio & Engineering Model
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/TarushYadav004/kisanova-cad)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-00e699?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tarushyadav004.github.io/kisanova-cad/)
+[![Live Deployment](https://img.shields.io/badge/Live%20App-kisanova--cad.vercel.app-00e699?style=for-the-badge&logo=vercel&logoColor=white)](https://kisanova-cad.vercel.app/)
 [![3D Engine](https://img.shields.io/badge/Three.js-WebGL%20r128-00d2ff?style=for-the-badge&logo=three.js)](https://threejs.org/)
 [![Parametric CAD](https://img.shields.io/badge/OpenSCAD-Parametric%20CAD-ffaa00?style=for-the-badge&logo=openscad)](https://openscad.org/)
 [![License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)](LICENSE)
@@ -11,14 +11,10 @@
 
 ---
 
-## 🔗 Project Links
+## 🌐 Live Project Link
 
-| Resource | Link |
-| :--- | :--- |
-| 🌐 **Live Web 3D CAD Studio** | **[https://tarushyadav004.github.io/kisanova-cad/](https://tarushyadav004.github.io/kisanova-cad/)** |
-| 💻 **GitHub Source Repository** | **[https://github.com/TarushYadav004/kisanova-cad](https://github.com/TarushYadav004/kisanova-cad)** |
-| 📐 **OpenSCAD CAD File** | [`kisanova_rover.scad`](./kisanova_rover.scad) |
-| 📦 **Pre-rendered 3D STL/OBJ Models** | [`models/`](./models/) |
+👉 **Live Web 3D CAD Studio:** **[https://kisanova-cad.vercel.app/](https://kisanova-cad.vercel.app/)**  
+👉 **GitHub Source Code:** **[https://github.com/TarushYadav004/kisanova-cad](https://github.com/TarushYadav004/kisanova-cad)**
 
 ---
 
@@ -81,7 +77,7 @@
 
 ## 🎨 Interactive 3D Web CAD Studio Features
 
-The included Web Studio (`index.html`) provides a complete in-browser CAD inspection environment:
+The live Web Studio at **[https://kisanova-cad.vercel.app/](https://kisanova-cad.vercel.app/)** provides a complete in-browser CAD inspection environment:
 
 * **Shading & Render Modes:**
   * 🎨 **Realistic PBR:** Realistic material shading, metallic reflection, and ambient occlusion.
@@ -148,20 +144,10 @@ npm start
 
 ---
 
-## 🌐 Deploying to GitHub Pages
-
-To host this 3D CAD Studio live on GitHub Pages:
-1. Go to your repository **Settings** on GitHub: `https://github.com/TarushYadav004/kisanova-cad/settings/pages`
-2. Under **Build and deployment > Source**, select **Deploy from a branch**.
-3. Select branch: `main` and folder: `/ (root)`.
-4. Click **Save**. Your site will be published at:  
-   👉 **`https://tarushyadav004.github.io/kisanova-cad/`**
-
----
-
 ## 👥 Credits & Authors
 
 * **Project:** KISANOVA Smart AgriTech Rover
 * **Team:** Tech Falcons
 * **Lead Developer & Maintainer:** [Tarush Yadav (@TarushYadav004)](https://github.com/TarushYadav004)
+* **Live App:** [https://kisanova-cad.vercel.app/](https://kisanova-cad.vercel.app/)
 * **License:** [MIT License](LICENSE)
